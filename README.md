@@ -36,7 +36,7 @@ A simple message management system using Python and MySQL. This script allows yo
 
 2. **Run the Script:**
    ```sh
-   python script.py
+   python instantmsg.py
    ```
 
 ## Project Details
